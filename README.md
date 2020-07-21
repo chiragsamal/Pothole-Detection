@@ -7,5 +7,3 @@ To counter this problem I have created this repository to detect potholes from i
 ![Pothole](https://github.com/chiragsamal/Pothole-Detection/blob/master/pothole.png)
 
 Using Deep Learning we can easily classify images into Normal and Potholes
-
-P.S: This Project is still under Progress.
